@@ -5,3 +5,17 @@ Git gets started, a .git folder gets created. You need to do it to tell Git to g
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 It's different as it offers one the ability to clarify one's own thought process. It also allows me to decide what to commit together and what file to commit separately.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You only add the file(s) that you want to commit to the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+In situations where I want to try something out, something BIG!
+
+How do the diagrams help you visualize the branch structure?
+
+It makes it easier to see the logic of the structure and helps understand in what cases you might commit something not on a branch and hence unreacheable later on.
+
+
