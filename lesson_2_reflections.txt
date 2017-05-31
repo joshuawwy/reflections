@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git gets started, a .git folder gets created. You need to do it to tell Git to get started.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's different as it offers one the ability to clarify one's own thought process. It also allows me to decide what to commit together and what file to commit separately.
