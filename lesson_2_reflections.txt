@@ -18,4 +18,12 @@ How do the diagrams help you visualize the branch structure?
 
 It makes it easier to see the logic of the structure and helps understand in what cases you might commit something not on a branch and hence unreacheable later on.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+Once the branched out feature works perfectly, we can add it into the production ready master branch. We represent it on the diagram as a commit that has both tips of the previous branches as its parent commits.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+Save time!!! When it's smart enough to do it, let it do it.
